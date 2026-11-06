@@ -29,6 +29,7 @@ PAGE = r"""
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <meta name="google-site-verification" content="fOLM2RCx1aZznT1pAdm8HhjOBzxHkyTM-MbEzy3eSx4" />
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Blacksane Thala | Photographer, Web Developer & Creative in Malawi</title>
   <meta name="description" content="Official website of Blacksane Thala, a Malawi-based photographer, web developer, videographer and graphic designer. Explore services and creative work.">
